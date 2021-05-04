@@ -1,5 +1,4 @@
-# base-projects
-this repo is for the base-projects
+# This repo is for the base-projects
 
 
 ## base-projects:
