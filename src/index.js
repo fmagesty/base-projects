@@ -1,5 +1,10 @@
-import ReactDOM from "react-dom";
-import React from "react";
+import ReactDOM from 'react-dom';
+import React from 'react';
+import App from './components/core/App';
 
-const App = () => <h1>This is my React base-project</h1>;
-ReactDOM.render(<App />, document.getElementById("app"));
+ReactDOM.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+  document.getElementById('root')
+);
