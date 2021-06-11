@@ -22,7 +22,6 @@
   "bugs": {
     "url": "https://github.com/fmagesty/base-projects/issues"
   },
-  "homepage": "https://github.com/fmagesty/base-projects#readme",
   "devDependencies": {
     "@babel/plugin-proposal-class-properties": "^7.13.0",
     "@babel/preset-react": "^7.13.13",
